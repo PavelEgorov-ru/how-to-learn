@@ -6,3 +6,8 @@
     font-weight: normal;
     color: #000000;
   }
+
+  .two-columns__paragraph:nth-of-type(2) {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
